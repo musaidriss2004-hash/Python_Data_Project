@@ -95,7 +95,7 @@ plt.show()
 
 ### Results
 
-![Likelihood of Skills Requested in the UK Job Postings](3_Project/images/likelihood_skills_uk.png)
+![Likelihood of Skills Requested in the UK Job Postings](images/likelihood_skills_uk.png)
 
 
 
@@ -143,7 +143,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the UK](3_Project/images/trending_top_skills_uk.png)  
+![Trending Top Skills for Data Analysts in the UK](images/trending_top_skills_uk.png)  
 *Bar graph visualizing the trending top skills for data analysts in the UK in 2023.*
 
 ### Insights:
@@ -191,7 +191,7 @@ plt.show()
 
 #### Results
 
-![Salary Distributions of Data Jobs in the UK](3_Project/images/salary_distrubtion_uk.png) 
+![Salary Distributions of Data Jobs in the UK](images/salary_distrubtion_uk.png) 
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 #### Insights
@@ -268,7 +268,7 @@ plt.show()
 #### Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the UK:
 
-![The Highest Paid & Most In-Demand Skills for Data Analysts in the UK](3_Project/images/highest_paid_skills_Data_Analyst_uk.png)
+![The Highest Paid & Most In-Demand Skills for Data Analysts in the UK](images/highest_paid_skills_Data_Analyst_uk.png)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the UK.*
 
 #### Insights:
@@ -349,7 +349,7 @@ plt.show()
 ```
 
 #### Results
-![Most Optimal Skills for Data Analysts in the UK](3_Project/images/most_optimal_skills_uk.png)    
+![Most Optimal Skills for Data Analysts in the UK](images/most_optimal_skills_uk.png)    
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the UK.*
 
 #### Insights:
@@ -416,7 +416,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the UK with Coloring by Technology](3_Project/images/likelihood_skills_uk.png)  
+![Most Optimal Skills for Data Analysts in the UK with Coloring by Technology](images/most_optimal_skills_uk_colour.png)  
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the UK with color labels for technology.*
 
 #### Insights:
